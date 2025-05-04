@@ -3,5 +3,4 @@ pandas
 datetime
 holidays
 retry
-plotly
 git+https://github.com/rongardF/tvdatafeed.git
