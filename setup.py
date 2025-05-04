@@ -20,7 +20,6 @@ setup(
         "numpy",
         "holidays",
         "retry",
-        "plotly",
         "tvDatafeed @ git+https://github.com/rongardF/tvdatafeed.git@main"
     ]
 )
