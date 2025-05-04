@@ -1,7 +1,7 @@
 # EGXPY
 Download Data for EGX and Portfolio Optimization
 
-![GitHub Repo stars](https://img.shields.io/github/stars/egxlytics/demo?style=social)
+![GitHub Repo stars](https://img.shields.io/github/stars/egxlytics/egxpy?style=social)
 
 # EGX Stock Data Downloader 📊  
 
