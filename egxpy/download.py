@@ -7,7 +7,6 @@ import pandas as pd
 import numpy as np
 import holidays
 from datetime import datetime as dt
-import streamlit as st
 
 
 @retry((Exception), tries=20, delay=0.5, backoff=0)
