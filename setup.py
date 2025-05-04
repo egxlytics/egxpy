@@ -10,9 +10,9 @@ setup(
         "Source": "https://github.com/egxlytics/egxpy/",
     },
     license="MIT License",
-    author="@omar-Abouyoussef",
-    author_email="o.abouyoussef73@gmail.com",
-    description="Historical Data And Portfolio Optimization For EGX",
+    author="@egxlytics",
+    author_email="egxlytics@gmail.com",
+    description="Historical Data EGX",
     long_description_content_type="text/markdown",
     install_requires=[
         "setuptools",
