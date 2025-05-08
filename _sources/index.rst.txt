@@ -1,0 +1,23 @@
+Welcome to egxpy's Documentation!
+==================================
+
+**egxpy** is a Python library developed by EGXlytics to simplify access and analysis of data from the Egyptian Exchange (EGX).  
+It includes tools to download intraday, daily, and historical market data.
+
+===================
+egxpy Documentation
+===================
+
+
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Getting Started
+
+   usage/installation
+
+.. toctree::
+   :maxdepth: 1
+   :caption: API Reference
+
+   reference/api
